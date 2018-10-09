@@ -1,0 +1,56 @@
+import java.lang.Math;
+public class Percolation {
+	
+	// N-by-N grid
+		//test case for 8x8
+		//test case for input (if no input?)
+	private int N = 8;
+	
+	//Initialise a 2D array for {{x,y},{x,y}} values
+	
+	private int [][] arrofBlocks = new int [N][N];
+	
+	public Percolation (int N)
+	{
+	//random seeds
+	// for block sites
+	int block_seed = (int) random()*250 +1; // some random block number
+	int random_seed = (int) random()*50 +1; //some random block seed
+	// for probability
+	int p = (int) random()*1;
+	int i; // rows
+	int j; // columns
+	
+	 // create the grid
+		//for each y
+		//block all sites..
+		
+		for (i = 1; i < N; i++){
+		
+			//block per y
+			arrofBlocks [i][j] = {
+								 {0},{0},
+								 };
+
+			for (j = 1; j < N; j++) {
+				
+				//block per x
+	
+					arrofBlocks[i][j] = {
+										{0},{0},
+										};
+			}
+		}
+			
+		
+		
+	}
+	public void open( int i, int j) 
+	{}
+	public boolean isOpen (int i, int j)
+	{}
+	public boolean isFull (int j , int j) 
+	{}
+	public boolean percolates()
+	{}
+		

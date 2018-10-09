@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CLIProject/CLIProject.iml" filepath="$PROJECT_DIR$/../CLIProject/CLIProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Methods/Methods.iml" filepath="$PROJECT_DIR$/../Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Objects/Objects.iml" filepath="$PROJECT_DIR$/../Objects/Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Objects/Objects.iml" filepath="$PROJECT_DIR$/../Objects/Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled1/Percolation.iml" filepath="$PROJECT_DIR$/untitled1/Percolation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Percolation.iml" filepath="$PROJECT_DIR$/Percolation.iml" />
+    </modules>
+  </component>
+</project>
